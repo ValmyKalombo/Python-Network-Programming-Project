@@ -1,0 +1,15 @@
+[
+    {
+        "customer": "Valmy",
+        "item": "Laptop"
+    },
+    {
+        "name": "Noah",
+        "item": "Batteries"
+    },
+    {
+        "name": "John",
+        "email": "example@gmail.com",
+        "item": "Camera"
+    }
+]
